@@ -2,7 +2,7 @@
 
 #### [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 
-![image-20200822210437548](http://akatsuke.com/image-20200822210437548.png)
+![image-20200822223129180](http://akatsuke.com/image-20200822223129180.png)
 
 这个题的解法，
 
